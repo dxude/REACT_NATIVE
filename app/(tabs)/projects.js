@@ -28,7 +28,7 @@ const projects = [
     name: 'Aplicativo de Portfólio (Este App)',
     description: 'Um aplicativo React Native para demonstrar minhas habilidades, incluindo navegação com Expo Router e um jogo interativo.',
     technologies: ['React Native', 'Expo', 'Expo Router', 'JavaScript'],
-    link: 'https://github.com/dxude/AppReactNative',
+    link: 'https://github.com/dxude/REACT_NATIVE',
     icon: 'mobile',
   },
   {
